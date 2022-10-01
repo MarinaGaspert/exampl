@@ -1,0 +1,15 @@
+C:\Users\Гасперт\Desktop\марина\Программирование\example\exampke003\bin\Debug\net6.0\exampke003.exe
+C:\Users\Гасперт\Desktop\марина\Программирование\example\exampke003\bin\Debug\net6.0\exampke003.deps.json
+C:\Users\Гасперт\Desktop\марина\Программирование\example\exampke003\bin\Debug\net6.0\exampke003.runtimeconfig.json
+C:\Users\Гасперт\Desktop\марина\Программирование\example\exampke003\bin\Debug\net6.0\exampke003.dll
+C:\Users\Гасперт\Desktop\марина\Программирование\example\exampke003\bin\Debug\net6.0\exampke003.pdb
+C:\Users\Гасперт\Desktop\марина\Программирование\example\exampke003\obj\Debug\net6.0\exampke003.csproj.AssemblyReference.cache
+C:\Users\Гасперт\Desktop\марина\Программирование\example\exampke003\obj\Debug\net6.0\exampke003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Гасперт\Desktop\марина\Программирование\example\exampke003\obj\Debug\net6.0\exampke003.AssemblyInfoInputs.cache
+C:\Users\Гасперт\Desktop\марина\Программирование\example\exampke003\obj\Debug\net6.0\exampke003.AssemblyInfo.cs
+C:\Users\Гасперт\Desktop\марина\Программирование\example\exampke003\obj\Debug\net6.0\exampke003.csproj.CoreCompileInputs.cache
+C:\Users\Гасперт\Desktop\марина\Программирование\example\exampke003\obj\Debug\net6.0\exampke003.dll
+C:\Users\Гасперт\Desktop\марина\Программирование\example\exampke003\obj\Debug\net6.0\refint\exampke003.dll
+C:\Users\Гасперт\Desktop\марина\Программирование\example\exampke003\obj\Debug\net6.0\exampke003.pdb
+C:\Users\Гасперт\Desktop\марина\Программирование\example\exampke003\obj\Debug\net6.0\exampke003.genruntimeconfig.cache
+C:\Users\Гасперт\Desktop\марина\Программирование\example\exampke003\obj\Debug\net6.0\ref\exampke003.dll
